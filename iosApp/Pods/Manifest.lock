@@ -1,0 +1,16 @@
+PODS:
+  - umbrella (1.0)
+
+DEPENDENCIES:
+  - umbrella (from `../umbrella`)
+
+EXTERNAL SOURCES:
+  umbrella:
+    :path: "../umbrella"
+
+SPEC CHECKSUMS:
+  umbrella: df10d32ade17ba45e98ff4319537cab20b8f819e
+
+PODFILE CHECKSUM: 6922e805b6f1c310703390965e476a38d98fd6f0
+
+COCOAPODS: 1.12.1
